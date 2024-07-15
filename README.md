@@ -1,10 +1,9 @@
 # LocalEstate
 
-Made a fullt responsive Local Estate Website Using HTML CSS & JavaScript.
-I've developed a fully responsive Local Estate Website using HTML, CSS, and JavaScript. The website's primary goal is to help people find houses and allow others to rent out their properties without the involvement of any agents. 
+Made a fully responsive Local Estate Website Using HTML CSS & JavaScript. Developed LocalEstate Website using HTML, CSS, and JavaScript.
 
 # Technologies Used
-The technologies employed include HTML5, CSS, and JavaScript. Additionally, I utilized Swiper.js for seamless image-swiping functionalities.
+The technologies employed include HTML5, CSS, and JavaScript. Additionally, utilized Swiper.js for seamless image-swiping functionalities.
 
  # Preview of my project:
  
